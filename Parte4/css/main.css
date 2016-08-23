@@ -1,8 +1,7 @@
 div {
 	display: inline-block;
-	width: 200px;
-	height: 100px;
-	margin: 10px;
+	margin: 5px;
+	padding: 10px;
 }
 .amarillo {
 	background-color: yellow;
