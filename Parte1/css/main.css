@@ -1,0 +1,10 @@
+div {
+	display: block;
+	padding-bottom: 100px;
+}
+.amarillo {
+	background-color: yellow;
+}
+.rojo {
+	background-color: red;
+}
